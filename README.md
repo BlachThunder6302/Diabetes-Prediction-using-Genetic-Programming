@@ -62,8 +62,7 @@ To run this project, you can clone the repository and run the Jupyter Notebook.
 
 ```bash
 # 1. Clone the repository
-git clone <your-repository-url>
-cd <repository-directory>
+git clone https://github.com/BlachThunder6302/Diabetes-Prediction-using-Genetic-Programming.git
 
 # 2. Install the required dependencies from requirements.txt
 pip install -r requirements.txt
